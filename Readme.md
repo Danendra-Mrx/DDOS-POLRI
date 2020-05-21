@@ -1,23 +1,26 @@
 # DDos-Attack 
-### What Is A DDos-Attack
+### Apa Itu DDOS ATTACK?
 
-### A Distributed Denial of Service (DDoS) attack is an attempt to make an online service unavailable 
-by overwhelming it with traffic from multiple sources. They target a wide variety of important resources
-from banks to news websites, and present a major challenge to making sure people can publish and access important information
+### Serangan Denial of Service (DDoS) Terdistribusi adalah upaya untuk membuat layanan online tidak tersedia
+dengan membanjiri dengan lalu lintas dari berbagai sumber. Mereka menargetkan berbagai sumber daya penting
+dari bank ke situs web berita, dan menyajikan tantangan besar untuk memastikan orang dapat mempublikasikan dan mengakses informasi penting
 
-### Dwonload&Install
+
+
+### Download&Install
 
 ### git clone https://github.com/Danendra-MRx/DDOS-POLRI
 
 ### cd DDOS-POLRI
 
-### chmod +x DDOS-POLRI
+### chmod +x ddos-attack.py
 
 ### python ddos-attack.py
 
-### ScreenShot 
+### Mohon GUnakan Dengan Bijak!
 
-![capture](https://user-images.githubusercontent.com/33704360/38769260-91bfc362-3fb4-11e8-86c6-d5a3ca13c31a.PNG)
+
+
 
 ### YouTube channel
 
