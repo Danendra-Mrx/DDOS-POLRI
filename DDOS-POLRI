@@ -22,7 +22,7 @@ os.system("figlet DDOS POLRI")
 print
 print "Author   : Danendra Djlantik"
 print "You Tube : https://www.youtube.com/AnonymousIndonesia"
-print "github   : https://github.com/Mr.D4n4n4r4-Mrx"
+print "github   : https://github.com/Danendra-Mrx"
 print "Facebook : https://www.facebook.com/ClayrinCyberpunk"
 print
 ip = raw_input("IP Target : ")
