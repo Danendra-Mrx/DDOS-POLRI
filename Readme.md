@@ -13,11 +13,11 @@ dari bank ke situs web berita, dan menyajikan tantangan besar untuk memastikan o
 
 ### cd DDOS-POLRI
 
-### chmod +x ddos-attack.py
+### chmod +x DDOS-POLRI
 
-### python ddos-attack.py
+### python DDOS-POLRI
 
-### Mohon GUnakan Dengan Bijak!
+### Mohon Gunakan Dengan Bijak!
 
 
 
