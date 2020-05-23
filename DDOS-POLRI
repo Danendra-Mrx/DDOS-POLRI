@@ -24,6 +24,7 @@ print "Author   : Danendra Djlantik"
 print "You Tube : https://www.youtube.com/AnonymousIndonesia"
 print "github   : https://github.com/Danendra-Mrx"
 print "Facebook : https://www.facebook.com/ClayrinCyberpunk"
+print "HAPPY TO DESTROY ANY VICTIMS"
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
