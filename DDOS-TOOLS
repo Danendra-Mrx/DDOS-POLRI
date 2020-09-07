@@ -18,7 +18,7 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet DDOS POLRI")
+os.system("figlet DDOS TOOLS")
 print
 print "Author   : Danendra Djlantik"
 print "You Tube : https://www.youtube.com/AnonymousIndonesia"
