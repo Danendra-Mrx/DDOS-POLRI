@@ -9,7 +9,7 @@ dari bank ke situs web berita, dan menyajikan tantangan besar untuk memastikan o
 
 ### Download&Install
 
-### git clone https://github.com/Danendra-MRx/DDOS-POLRI
+### git clone https://github.com/Danendra-Mrx/DDOS-POLRI
 
 ### cd DDOS-POLRI
 
